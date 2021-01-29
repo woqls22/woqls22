@@ -1,5 +1,5 @@
 ### Lee Jae Been 👋
-- 🔭 Tmax Data R&D Resercher(MetaData)
+- 🔭 Tmax Data R&D Researcher(MetaData)
 - ⚡ Kyunghee Univ. CS
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
