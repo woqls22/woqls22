@@ -1,6 +1,6 @@
 ### Lee Jae Been 👋
-- 🔭 티맥스소프트 연구원(메타데이터)
-- ⚡ 경희대학교 컴퓨터공학과
+- 🔭 Tmax Data R&D Resercher(MetaData)
+- ⚡ Kyunghee Univ. CS
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
