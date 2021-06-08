@@ -2,7 +2,7 @@
 - 🔭 Tmax Data R&D Researcher(MetaData)
 - ⚡ Kyunghee Univ. CS
 - https://woqls22.github.io/
-- 인생N컷 사이드프로젝트 진행중(1 : http://life-n-cut.site/
+- 인생N컷 사이드프로젝트 진행중: http://life-n-cut.site/
 
 <p>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
