@@ -1,5 +1,6 @@
 ### Lee Jae Been 👋
-- 🔭 Tmax Data R&D Researcher(MetaData)
+- ⚡ Hyundai Motors Manager
+- ⚡ Tmax Tibero R&D Researcher(2020.12 ~ 2022.01)
 - ⚡ Kyunghee Univ. CS
 - https://woqls22.github.io/
 
