@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Go-5C3EE8?style=flat-square&logo=go&logoColor=white"/></a>
-
+<img src="https://img.shields.io/badge/Typescript-8FAAZZ?style=flat-square&logo=Typescript&logoColor=white"/></a>
 </p>
 
 <p>
