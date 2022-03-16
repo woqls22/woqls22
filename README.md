@@ -3,6 +3,7 @@
 - ⚡ Tmax Tibero R&D Researcher(2020.12 ~ 2022.01)
 - ⚡ Kyunghee Univ. CS
 - https://woqls22.github.io/
+- https://jaebeenlee.notion.site/CS-886e7e4f76d24c7dabd2c6cb99282801
 
 <p>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
