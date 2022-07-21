@@ -1,5 +1,5 @@
 ### Lee Jae Been 👋
-- ⚡ Hyundai Motor Company CDO
+- ⚡ Hyundai Motor Company(Service Platform dept.)
 - ⚡ Tmax Tibero R&D Researcher(2020.12 ~ 2022.01)
 - ⚡ Kyunghee Univ. CS
 - https://woqls22.github.io/
