@@ -1,6 +1,5 @@
 ### Lee Jae Been 👋
 - ⚡ Hyundai Motor Company(Service Platform dept.)
-- ⚡ Tmax Tibero R&D Researcher(2020.12 ~ 2022.01)
 - ⚡ Kyunghee Univ. CS
 - https://woqls22.github.io/
 - https://jaebeenlee.notion.site/CS-886e7e4f76d24c7dabd2c6cb99282801
@@ -20,7 +19,6 @@
 
 <!--
 **woqls22/woqls22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 인생N컷 http://life-n-cut.site/
 
 Here are some ideas to get you started:
 
